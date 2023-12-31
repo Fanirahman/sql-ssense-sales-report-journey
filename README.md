@@ -1,4 +1,4 @@
-Welcome to my Portfolio Project Repository! This repository serves as a comprehensive showcase of my skills and expertise in the realm of Data Analysis, Data Science, and related disciplines. Here, you'll find a collection of projects that highlight my proficiency in SQL, Excel, Tableau, Python, Power BI, and Pandas.
+Welcome to my Portfolio Project Repository! This repository serves as a comprehensive showcase of my skills and expertise in the realm of Data Analysis, Data Science, and related disciplines. Here, you'll find a collection of projects that highlight my proficiency in SQL, Excel, Tableau, Python, and Power BI
 
 ## Project Categories
 
